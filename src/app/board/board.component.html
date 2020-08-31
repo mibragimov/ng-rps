@@ -1,0 +1,30 @@
+<div class="container-fluid">
+  <div class="container">
+    <app-score></app-score>
+  </div>
+
+  <div class="container u-margin-top">
+    <div class="choices">
+      <div class="choices__choice--1"><app-choice></app-choice></div>
+      <div class="choices__choice--2"><app-choice></app-choice></div>
+
+      <div class="choices__choice--3"><app-choice></app-choice></div>
+    </div>
+
+    <div class="results" *ngIf="false">
+      <div class="player-choice">
+        <h3>You picked</h3>
+        <div></div>
+      </div>
+
+      <div class="result-text">
+        <h3>You win!</h3>
+        <button>play again</button>
+      </div>
+      <div class="house-choice">
+        <h3>The house picked</h3>
+        <div class="icon"></div>
+      </div>
+    </div>
+  </div>
+</div>
