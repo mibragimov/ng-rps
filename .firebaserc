@@ -1,0 +1,11 @@
+{
+  "targets": {
+    "ng-test-project-96df7": {
+      "hosting": {
+        "rock-paper-scissors": [
+          "ng-test-project-96df7"
+        ]
+      }
+    }
+  }
+}

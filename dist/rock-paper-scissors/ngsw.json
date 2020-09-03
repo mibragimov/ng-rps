@@ -1,0 +1,108 @@
+{
+  "configVersion": 1,
+  "timestamp": 1599124135534,
+  "index": "/index.html",
+  "assetGroups": [
+    {
+      "name": "app",
+      "installMode": "prefetch",
+      "updateMode": "prefetch",
+      "cacheQueryOptions": {
+        "ignoreVary": true
+      },
+      "urls": [
+        "/favicon.ico",
+        "/index.html",
+        "/main.f06452791dcc5870025c.js",
+        "/manifest.webmanifest",
+        "/polyfills.a4021de53358bb0fec14.js",
+        "/runtime.e227d1a0e31cbccbf8ec.js",
+        "/styles.3adb02ff8b71088363d3.css"
+      ],
+      "patterns": []
+    },
+    {
+      "name": "assets",
+      "installMode": "lazy",
+      "updateMode": "prefetch",
+      "cacheQueryOptions": {
+        "ignoreVary": true
+      },
+      "urls": [
+        "/assets/bg-pentagon.svg",
+        "/assets/bg-triangle.svg",
+        "/assets/favicon-32x32.png",
+        "/assets/icon-close.svg",
+        "/assets/icon-lizard.svg",
+        "/assets/icon-paper.svg",
+        "/assets/icon-rock.svg",
+        "/assets/icon-scissors.svg",
+        "/assets/icon-spock.svg",
+        "/assets/icons/icon-128x128.png",
+        "/assets/icons/icon-144x144.png",
+        "/assets/icons/icon-152x152.png",
+        "/assets/icons/icon-192x192.png",
+        "/assets/icons/icon-384x384.png",
+        "/assets/icons/icon-512x512.png",
+        "/assets/icons/icon-72x72.png",
+        "/assets/icons/icon-96x96.png",
+        "/assets/image-rules-bonus.svg",
+        "/assets/image-rules.svg",
+        "/assets/logo-bonus.svg",
+        "/assets/logo.svg",
+        "/bg-triangle.c0c30b562fdb08766659.svg"
+      ],
+      "patterns": []
+    }
+  ],
+  "dataGroups": [],
+  "hashTable": {
+    "/assets/bg-pentagon.svg": "a653a14d99a71d140929f39ea7763d09fef77fde",
+    "/assets/bg-triangle.svg": "cf61cfdf352b5da889c5ef6f114dbb8f67580409",
+    "/assets/favicon-32x32.png": "8bda447b3b6b894af94d42247ab951b5b255abfb",
+    "/assets/icon-close.svg": "475d87e4f04aa919a101e56b2570468afdde1167",
+    "/assets/icon-lizard.svg": "c0c0ff82fb23b05444159224171c47cd9105a8ba",
+    "/assets/icon-paper.svg": "72d17fab1c796ed44faad7583da4002e5fa4368e",
+    "/assets/icon-rock.svg": "722434585d1f7888f805d00dced2ccd6549c4339",
+    "/assets/icon-scissors.svg": "355e9094c5844028acf07a53121255d07758faf1",
+    "/assets/icon-spock.svg": "87bf53f22557ed4d3a4a5655544896276cbe324d",
+    "/assets/icons/icon-128x128.png": "dae3b6ed49bdaf4327b92531d4b5b4a5d30c7532",
+    "/assets/icons/icon-144x144.png": "b0bd89982e08f9bd2b642928f5391915b74799a7",
+    "/assets/icons/icon-152x152.png": "7479a9477815dfd9668d60f8b3b2fba709b91310",
+    "/assets/icons/icon-192x192.png": "1abd80d431a237a853ce38147d8c63752f10933b",
+    "/assets/icons/icon-384x384.png": "329749cd6393768d3131ed6304c136b1ca05f2fd",
+    "/assets/icons/icon-512x512.png": "559d9c4318b45a1f2b10596bbb4c960fe521dbcc",
+    "/assets/icons/icon-72x72.png": "c457e56089a36952cd67156f9996bc4ce54a5ed9",
+    "/assets/icons/icon-96x96.png": "3914125a4b445bf111c5627875fc190f560daa41",
+    "/assets/image-rules-bonus.svg": "5ca397847b7e10a08fc00e57e5d17ef84028a7bb",
+    "/assets/image-rules.svg": "8abe13f83ec0ddcab0557bfdedf6da5c7076f2d4",
+    "/assets/logo-bonus.svg": "a8f380b757b45782bbbcfb725ec8e6ca610d2379",
+    "/assets/logo.svg": "cd7d59e9312aee62e9b26e2bf9df56bac0542569",
+    "/bg-triangle.c0c30b562fdb08766659.svg": "cf61cfdf352b5da889c5ef6f114dbb8f67580409",
+    "/favicon.ico": "22f6a4a3bcaafafb0254e0f2fa4ceb89e505e8b2",
+    "/index.html": "1174af658689c95d2954ad2f5d1bf624473530e7",
+    "/main.f06452791dcc5870025c.js": "2720bd3c2e3938570826db52b152964bbfbffc41",
+    "/manifest.webmanifest": "ddcdb829585a4bbf9f2ed9dc791a1949a9d31215",
+    "/polyfills.a4021de53358bb0fec14.js": "b47435a9ef2a4829f2f9dfd35599bde3614981b1",
+    "/runtime.e227d1a0e31cbccbf8ec.js": "a9aafcf49f49145093fc831efd9b8e2f6c71bb9c",
+    "/styles.3adb02ff8b71088363d3.css": "823608ee2d1aad25fc612237f1f9667212a4e6c4"
+  },
+  "navigationUrls": [
+    {
+      "positive": true,
+      "regex": "^\\/.*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*\\.[^/]*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*__[^/]*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*__[^/]*\\/.*$"
+    }
+  ]
+}
